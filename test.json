@@ -1,0 +1,32 @@
+[
+  {
+    "identifier": "fb4bb77d-998b-4c3e-bf17-768ed6dc39c8",
+    "timestamp": 4000,
+    "duration": 1500,
+    "text": "Isabel: You shall wear it when you find Eden, and when you return, I shall be your Eve."
+  },
+  {
+    "identifier": "48336319-618c-40db-bdf1-639c544fb118",
+    "timestamp": 2000,
+    "duration": 1000,
+    "text": "Tomas Verde: Upon my honor and my life."
+  },
+  {
+    "identifier": "a2ae8e13-1986-40f8-aef9-776261700440",
+    "timestamp": 0,
+    "duration": 3000,
+    "text": "Isabel: Will you deliver Spain from bondage?"
+  },
+  {
+    "identifier": "3cb19947-b7c1-46c6-b8ff-d1cc25c45d73",
+    "timestamp": 2500,
+    "duration": 2000,
+    "text": "Isabel: Then you shall take this ring to remind you of your promise."
+  },
+  {
+    "identifier": "c8a76a1e-7937-4458-bbb7-999025493ef6",
+    "timestamp": 5000,
+    "duration": 2000,
+    "text": "Isabel: Together we will live forever."
+  }
+]
